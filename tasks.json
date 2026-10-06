@@ -1,14 +1,23 @@
-[
-  {
-    "id": 1,
-    "prompt": "Cinematic shot of an old retro car driving on a rainy highway at night",
-    "status": "pending",
-    "result_url": null
-  },
-  {
-    "id": 2,
-    "prompt": "Futuristic cyberpunk drone flying over a misty city with neon lights",
-    "status": "pending",
-    "result_url": null
-  }
-]
+{
+  "blocked_until": null,
+  "tasks": [
+    {
+      "id": 1,
+      "prompt": "Cinematic shot of an old retro car driving on a rainy highway at night, neon lights reflection, 4k",
+      "status": "pending",
+      "result_url": null
+    },
+    {
+      "id": 2,
+      "prompt": "Futuristic cyberpunk drone flying over a misty city with holographic billboards, smooth camera motion",
+      "status": "pending",
+      "result_url": null
+    },
+    {
+      "id": 3,
+      "prompt": "An astronaut discovering a glowing crystal cave on Mars, cinematic lighting, slow zoom",
+      "status": "pending",
+      "result_url": null
+    }
+  ]
+}
