@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "prompt": "Cinematic shot of an old retro car driving on a rainy highway at night",
+    "status": "pending",
+    "result_url": null
+  },
+  {
+    "id": 2,
+    "prompt": "Futuristic cyberpunk drone flying over a misty city with neon lights",
+    "status": "pending",
+    "result_url": null
+  }
+]
