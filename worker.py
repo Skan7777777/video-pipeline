@@ -8,10 +8,10 @@ from google.genai.errors import APIError
 
 NOTEBOOK_FILE = "Starcraft_notebook.json"
 
-# Системне налаштування стилю кожного нового сеансу
-WARHAMMER_SYSTEM_PROMPT = (
-    "Warhammer 40,000 grimdark aesthetic, highly detailed, gothic sci-fi, "
-    "cinematic lighting, photorealistic."
+# Стилистика для видеогенерации по Starcraft
+STARCRAFT_SYSTEM_PROMPT = (
+    "Starcraft cinematic aesthetic, organic alien swarm, zerg hive, "
+    "dark sci-fi, cinematic lighting, photorealistic, 8k resolution, ultra detailed."
 )
 
 def load_notebook():
@@ -32,41 +32,54 @@ def check_cooldown(data):
 
     if now < blocked_until:
         rem_min = int((blocked_until - now).total_seconds() / 60)
-        print(f"[!] Ліміт активний. Запити призупинено ще на ~{rem_min} хв (до {blocked_until_str}). Вихід.")
+        print(f"[!] Лимит активен. Запросы приостановлены еще на ~{rem_min} мин (до {blocked_until_str}). Выход.")
         return True
 
-    print("[✓] Період обмеження минув. Відновлюємо створення відео у блокноті Вархаммер!")
+    print("[✓] Период ограничения завершился. Возобновляем генерацию видео для Starcraft!")
     data["blocked_until"] = None
     save_notebook(data)
     return False
 
+def find_next_pending_scene(notebook):
+    """Ищет первую необработанную сцену среди всех эпизодов."""
+    for episode in notebook.get("episodes", []):
+        for scene_idx, scene in enumerate(episode.get("scenes", [])):
+            if scene.get("status") != "done":
+                return episode, scene_idx, scene
+    return None, None, None
+
 def run():
     notebook = load_notebook()
 
-    # 1. Перевірка обмеження за часом
+    # 1. Проверка кулдауна / лимитов
     if check_cooldown(notebook):
         return
 
-    # 2. Знаходимо наступну задачу в блокноті
-    task = next((t for t in notebook["tasks"] if t["status"] == "pending"), None)
-    if not task:
-        print("[i] Усі сцени у блокноті Вархаммер вже успішно створені!")
+    # 2. Поиск следующей сцены
+    episode, scene_idx, scene = find_next_pending_scene(notebook)
+    if not scene:
+        print("[i] Все сцены во всех сериях Starcraft уже успешно созданы!")
         return
 
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
-        print("[X] Помилка: GEMINI_API_KEY не знайдено в секретах GitHub")
+        print("[X] Ошибка: GEMINI_API_KEY не найден в секретах GitHub")
         sys.exit(1)
 
-    # Ініціалізація нового клієнта (чистий сеанс / новий чат)
     client = genai.Client(api_key=api_key)
 
-    full_prompt = f"{WARHAMMER_SYSTEM_PROMPT}, {task['prompt']}"
-    print(f"\n=== [Блокнот Вархаммер] Новий чат: Задача #{task['id']} ===")
+    # Очищаем текст описания сцены от переносов строк для передачи в промпт
+    scene_text = scene.get("description", "").replace("\n", " ").strip()
+    full_prompt = (
+        f"{STARCRAFT_SYSTEM_PROMPT}, Arc: {episode.get('arc')}, "
+        f"Episode: {episode.get('title')}, Scene: {scene_text}"
+    )
+
+    ep_num = episode.get("episode_number")
+    print(f"\n=== [Starcraft Pipeline] Генерация: Эпизод #{ep_num} | Сцена #{scene_idx + 1} ({scene.get('timecode')}) ===")
     print(f"Промпт: {full_prompt}")
 
     try:
-        # Запит на створення відео до моделі
         operation = client.models.generate_videos(
             model="veo-3.1-generate-001",
             prompt=full_prompt,
@@ -77,34 +90,33 @@ def run():
         )
 
         while not operation.done:
-            print("  ...генерація сцени триває, очікування 15 секунд...")
+            print("  ...генерация сцены продолжается, ожидание 15 секунд...")
             time.sleep(15)
             operation = client.operations.get(operation)
 
-        # Фіксація успішного результату
+        # Сохранение ссылки на готовое видео
         video_entry = operation.result.generated_videos[0]
-        task["status"] = "done"
-        task["result_url"] = getattr(video_entry.video, "uri", "created_successfully")
+        scene["status"] = "done"
+        scene["result_url"] = getattr(video_entry.video, "uri", "created_successfully")
         save_notebook(notebook)
-        print(f"[✓] Сцену #{task['id']} успішно створено! Посилання: {task['result_url']}")
+        print(f"[✓] Сцена #{scene_idx + 1} серии #{ep_num} успешно создана! Ссылка: {scene['result_url']}")
 
     except APIError as e:
         err = str(e).upper()
         if e.code == 429 or "RESOURCE_EXHAUSTED" in err:
             now = datetime.now(timezone.utc)
-            # Якщо добовий ліміт — пауза до ранку (12 годин), якщо хвилинний — 20 хвилин
             if "QUOTA" in err or "DAILY" in err:
                 cooldown_time = now + timedelta(hours=12)
-                print(f"[!] Добову квоту вичерпано. Блокнот спить до: {cooldown_time.isoformat()}")
+                print(f"[!] Суточная квота исчерпана. Пауза до: {cooldown_time.isoformat()}")
             else:
                 cooldown_time = now + timedelta(minutes=20)
-                print(f"[!] Ліміт 429. Очікування 20 хвилин до: {cooldown_time.isoformat()}")
+                print(f"[!] Лимит 429. Ожидание 20 минут до: {cooldown_time.isoformat()}")
 
             notebook["blocked_until"] = cooldown_time.isoformat()
             save_notebook(notebook)
         else:
-            print(f"[X] Помилка запиту: {e}")
-            task["status"] = "failed"
+            print(f"[X] Ошибка запроса: {e}")
+            scene["status"] = "failed"
             save_notebook(notebook)
             raise e
 
