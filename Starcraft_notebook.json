@@ -1,81 +1,2636 @@
 {
-"project": "StarCraft Swarm Arc: Episodes 60-69",
-"blocked_until": null,
-"tasks": [
-{
-"id": 60,
-"series": "СЕРІЯ 60 — BREAK",
-"timestamp": "10:20–10:30",
-"prompt": "Cinematic shot: armored Ultralisks ram alien fortress gates until they crack and explode inward into fire and debris. Sci-fi action.",
-"status": "pending",
-"result_url": null
-},
-{
-"id": 61,
-"series": "СЕРІЯ 61 — CITY OF GOLD",
-"timestamp": "10:30–10:40",
-"prompt": "Dynamic tracking shot: Zerg swarm breaches a golden Protoss city. Zealots ignite psi-blades in a brutal melee clash. 4k sci-fi warfare.",
-"status": "pending",
-"result_url": null
-},
-{
-"id": 62,
-"series": "СЕРІЯ 62 — BROODMOTHER",
-"timestamp": "10:40–10:50",
-"prompt": "Cinematic medium shot: a massive Zerg Broodmother confronts a lone Protoss commander in a ruined plaza. Tense standoff, locking eyes.",
-"status": "pending",
-"result_url": null
-},
-{
-"id": 63,
-"series": "СЕРІЯ 63 — THE REAL ENEMY",
-"timestamp": "10:50–11:00",
-"prompt": "Cinematic tilt shot: a cosmic black rift tears open the sky. A massive eldritch entity descends as Broodmother and Protoss watch in dread.",
-"status": "pending",
-"result_url": null
-},
-{
-"id": 64,
-"series": "СЕРІЯ 64 — ALLIANCE",
-"timestamp": "11:00–11:10",
-"prompt": "Epic panning shot: Protoss with glowing psi-blades and Zerg warriors ready claws, turning together to face the celestial rift.",
-"status": "pending",
-"result_url": null
-},
-{
-"id": 65,
-"series": "СЕРІЯ 65 — CHARGE",
-"timestamp": "11:10–11:20",
-"prompt": "Spectacular aerial shot: Protoss warp portals open as an aerial Zerg swarm rises to launch a united charge against the cosmic entity.",
-"status": "pending",
-"result_url": null
-},
-{
-"id": 66,
-"series": "СЕРІЯ 66 — THE GOD",
-"timestamp": "11:20–11:30",
-"prompt": "Cinematic climax: attacks glance off the entity's shield. Its central eye opens, unleashing an apocalyptic shockwave. Flash to black.",
-"status": "pending",
-"result_url": null
-},
-{
-"id": 67,
-"series": "СЕРІЯ 67 — SILENCE",
-"timestamp": "11:30–11:40",
-"prompt": "Pitch black void with drifting cosmic dust. Crimson ripples pulse rhythmically to a deep biological heartbeat. Eerie atmosphere.",
-"status": "pending",
-"result_url": null
-},
-{
-"id": 68,
-"series": "СЕРІЯ 68 — THE SWARM",
-"timestamp": "11:40–11:50",
-"prompt": "Macro zoom-out: a single glowing Zerg eye opens in the dark, followed by millions of eyes across an endless living swarm.",
-"status": "pending",
-"result_url": null
-},
-{
-"id": 69,
-"series": "СЕРІЯ 69 — THE AWAKENING OF SOMETHING ELSE",
-"timestamp": "11:50–12:00",
-"prompt": "Cosmic zoom: creep-covered planet drifting among shipwrecks. A red beacon pulses,
+  "project": "STARCRAFT — ZERG: THE SWARM AWAKENS",
+  "range": "СЕРІЇ 70–200",
+  "subheading": "THE BEYOND",
+  "total_episodes": 131,
+  "episodes": [
+    {
+      "episode_number": 70,
+      "arc": "АРКА XIII — THE AWAKENING BEYOND",
+      "timecode": "12:00–12:10",
+      "title": "THE RED WORLD",
+      "scenes": [
+        {
+          "timecode": "12:00–12:03",
+          "description": "Невідома планета.\n\nЧервоні хмари закривають небо."
+        },
+        {
+          "timecode": "12:03–12:07",
+          "description": "Під поверхнею рухаються величезні форми."
+        },
+        {
+          "timecode": "12:07–12:10",
+          "description": "Земля розколюється.\n\nЗ тріщини виходить перша істота."
+        }
+      ]
+    },
+    {
+      "episode_number": 71,
+      "arc": "АРКА XIII — THE AWAKENING BEYOND",
+      "timecode": "12:10–12:20",
+      "title": "THE FIRST EYE",
+      "scenes": [
+        {
+          "timecode": "12:10–12:13",
+          "description": "Величезне око відкривається серед скель."
+        },
+        {
+          "timecode": "12:13–12:17",
+          "description": "Навколо нього відкриваються сотні менших очей."
+        },
+        {
+          "timecode": "12:17–12:20",
+          "description": "Усі дивляться в космос.\n\nВони відчули Zerg."
+        }
+      ]
+    },
+    {
+      "episode_number": 72,
+      "arc": "АРКА XIII — THE AWAKENING BEYOND",
+      "timecode": "12:20–12:30",
+      "title": "THE SIGNAL",
+      "scenes": [
+        {
+          "timecode": "12:20–12:23",
+          "description": "Червоний імпульс виходить із планети."
+        },
+        {
+          "timecode": "12:23–12:26",
+          "description": "Він проходить крізь зоряні системи."
+        },
+        {
+          "timecode": "12:26–12:30",
+          "description": "Далекі планети одна за одною відповідають.\n\nСигнал живий."
+        }
+      ]
+    },
+    {
+      "episode_number": 73,
+      "arc": "АРКА XIII — THE AWAKENING BEYOND",
+      "timecode": "12:30–12:40",
+      "title": "MILLIONS",
+      "scenes": [
+        {
+          "timecode": "12:30–12:33",
+          "description": "Камера відлітає."
+        },
+        {
+          "timecode": "12:33–12:37",
+          "description": "У темряві запалюються тисячі червоних точок."
+        },
+        {
+          "timecode": "12:37–12:40",
+          "description": "Потім — мільйони.\n\nЦе не одна армія.\n\nЦе цивілізація."
+        }
+      ]
+    },
+    {
+      "episode_number": 74,
+      "arc": "АРКА XIII — THE AWAKENING BEYOND",
+      "timecode": "12:40–12:50",
+      "title": "THE ARCHITECTS",
+      "scenes": [
+        {
+          "timecode": "12:40–12:43",
+          "description": "На планеті видно величезні споруди."
+        },
+        {
+          "timecode": "12:43–12:47",
+          "description": "Вони не органічні.\n\nНе Protoss.\n\nНе Zerg."
+        },
+        {
+          "timecode": "12:47–12:50",
+          "description": "У центрі споруди — символ із трьома очима."
+        }
+      ]
+    },
+    {
+      "episode_number": 75,
+      "arc": "АРКА XIV — THE NEW SWARM",
+      "timecode": "12:50–13:00",
+      "title": "MUTATION",
+      "scenes": [
+        {
+          "timecode": "12:50–12:53",
+          "description": "Новий Zerg стоїть у Hive."
+        },
+        {
+          "timecode": "12:53–12:57",
+          "description": "Його панцир починає рости."
+        },
+        {
+          "timecode": "13:00",
+          "description": "Зі спини виростають нові кінцівки."
+        }
+      ]
+    },
+    {
+      "episode_number": 76,
+      "arc": "АРКА XIV — THE NEW SWARM",
+      "timecode": "13:00–13:10",
+      "title": "THE BLADE",
+      "scenes": [
+        {
+          "timecode": "13:00–13:03",
+          "description": "Кінцівка перетворюється на величезний органічний клинок."
+        },
+        {
+          "timecode": "13:03–13:07",
+          "description": "Zerg ударяє ним по каменю."
+        },
+        {
+          "timecode": "13:07–13:10",
+          "description": "Кам'яна стіна розрізається навпіл."
+        }
+      ]
+    },
+    {
+      "episode_number": 77,
+      "arc": "АРКА XIV — THE NEW SWARM",
+      "timecode": "13:10–13:20",
+      "title": "THE NEW HYDRALISK",
+      "scenes": [
+        {
+          "timecode": "13:10–13:13",
+          "description": "Hydralisk входить у камеру."
+        },
+        {
+          "timecode": "13:13–13:17",
+          "description": "Його спина розкривається."
+        },
+        {
+          "timecode": "13:17–13:20",
+          "description": "З неї вилітають десятки нових органічних шипів."
+        }
+      ]
+    },
+    {
+      "episode_number": 78,
+      "arc": "АРКА XIV — THE NEW SWARM",
+      "timecode": "13:20–13:30",
+      "title": "THE NEW ULTRALISK",
+      "scenes": [
+        {
+          "timecode": "13:20–13:23",
+          "description": "Ultralisk реве."
+        },
+        {
+          "timecode": "13:23–13:26",
+          "description": "Його панцир починає світитися."
+        },
+        {
+          "timecode": "13:26–13:30",
+          "description": "Він робить крок.\n\nЗемля тріскається під ним."
+        }
+      ]
+    },
+    {
+      "episode_number": 79,
+      "arc": "АРКА XIV — THE NEW SWARM",
+      "timecode": "13:30–13:40",
+      "title": "THE QUEEN",
+      "scenes": [
+        {
+          "timecode": "13:30–13:33",
+          "description": "Нова істота підходить до Broodmother."
+        },
+        {
+          "timecode": "13:33–13:37",
+          "description": "Її голова розкривається."
+        },
+        {
+          "timecode": "13:37–13:40",
+          "description": "Вона випускає психічну хвилю.\n\nУвесь Hive схиляється."
+        }
+      ]
+    },
+    {
+      "episode_number": 80,
+      "arc": "АРКА XIV — THE NEW SWARM",
+      "timecode": "13:40–13:50",
+      "title": "ONE MIND",
+      "scenes": [
+        {
+          "timecode": "13:40–13:43",
+          "description": "Zerglings."
+        },
+        {
+          "timecode": "13:43–13:46",
+          "description": "Hydralisks."
+        },
+        {
+          "timecode": "13:46–13:48",
+          "description": "Ultralisks."
+        },
+        {
+          "timecode": "13:48–13:50",
+          "description": "Усі одночасно повертають голови.\n\nОдин розум."
+        }
+      ]
+    },
+    {
+      "episode_number": 81,
+      "arc": "АРКА XV — THE PROTOSS DISCOVERY",
+      "timecode": "13:50–14:00",
+      "title": "THE ARCHIVE",
+      "scenes": [
+        {
+          "timecode": "13:50–13:53",
+          "description": "Protoss-корабель пролітає крізь уламки."
+        },
+        {
+          "timecode": "13:53–13:57",
+          "description": "На борту знаходять древній кристал."
+        },
+        {
+          "timecode": "13:57–14:00",
+          "description": "Кристал активується.\n\nЗ'являється карта галактики."
+        }
+      ]
+    },
+    {
+      "episode_number": 82,
+      "arc": "АРКА XV — THE PROTOSS DISCOVERY",
+      "timecode": "14:00–14:10",
+      "title": "THE MAP",
+      "scenes": [
+        {
+          "timecode": "14:00–14:03",
+          "description": "На карті видно сотні секторів."
+        },
+        {
+          "timecode": "14:03–14:07",
+          "description": "Вони один за одним гаснуть."
+        },
+        {
+          "timecode": "14:07–14:10",
+          "description": "Останнім залишається сектор Protoss."
+        }
+      ]
+    },
+    {
+      "episode_number": 83,
+      "arc": "АРКА XV — THE PROTOSS DISCOVERY",
+      "timecode": "14:10–14:20",
+      "title": "THE WARNING",
+      "scenes": [
+        {
+          "timecode": "14:10–14:13",
+          "description": "На кристалі з'являється древній напис."
+        },
+        {
+          "timecode": "14:13–14:17",
+          "description": "Protoss-командир читає його."
+        },
+        {
+          "timecode": "14:17–14:20",
+          "description": "DO NOT AWAKEN THE SWARM.\n\nВін завмирає."
+        }
+      ]
+    },
+    {
+      "episode_number": 84,
+      "arc": "АРКА XV — THE PROTOSS DISCOVERY",
+      "timecode": "14:20–14:30",
+      "title": "TOO LATE",
+      "scenes": [
+        {
+          "timecode": "14:20–14:23",
+          "description": "Командир дивиться на планету."
+        },
+        {
+          "timecode": "14:23–14:26",
+          "description": "Увесь континент уже покритий Creep."
+        },
+        {
+          "timecode": "14:26–14:30",
+          "description": "З-під поверхні піднімається нова Hive.\n\nВони запізнилися."
+        }
+      ]
+    },
+    {
+      "episode_number": 85,
+      "arc": "АРКА XVI — THE FIRST CONTACT",
+      "timecode": "14:30–14:40",
+      "title": "UNKNOWN SHIPS",
+      "scenes": [
+        {
+          "timecode": "14:30–14:33",
+          "description": "Космос.\n\nТиша."
+        },
+        {
+          "timecode": "14:33–14:37",
+          "description": "З'являються чорні кораблі."
+        },
+        {
+          "timecode": "14:37–14:40",
+          "description": "Їх сотні."
+        }
+      ]
+    },
+    {
+      "episode_number": 86,
+      "arc": "АРКА XVI — THE FIRST CONTACT",
+      "timecode": "14:40–14:50",
+      "title": "THE FLEET ARRIVES",
+      "scenes": [
+        {
+          "timecode": "14:40–14:43",
+          "description": "Чорний флот виходить із порталу."
+        },
+        {
+          "timecode": "14:43–14:47",
+          "description": "Protoss наводять зброю."
+        },
+        {
+          "timecode": "14:47–14:50",
+          "description": "Zerg підіймають голову."
+        }
+      ]
+    },
+    {
+      "episode_number": 87,
+      "arc": "АРКА XVI — THE FIRST CONTACT",
+      "timecode": "14:50–15:00",
+      "title": "NO ATTACK",
+      "scenes": [
+        {
+          "timecode": "14:50–14:53",
+          "description": "Чорний флот не стріляє."
+        },
+        {
+          "timecode": "14:53–14:57",
+          "description": "Натомість відкривається величезний канал зв'язку."
+        },
+        {
+          "timecode": "14:57–15:00",
+          "description": "На екрані з'являється істота.\n\nВона говорить:\n\nWE REMEMBER YOU."
+        }
+      ]
+    },
+    {
+      "episode_number": 88,
+      "arc": "АРКА XVI — THE FIRST CONTACT",
+      "timecode": "15:00–15:10",
+      "title": "THE MEMORY",
+      "scenes": [
+        {
+          "timecode": "15:00–15:03",
+          "description": "Перед Protoss виникає видіння."
+        },
+        {
+          "timecode": "15:03–15:07",
+          "description": "Стародавня війна."
+        },
+        {
+          "timecode": "15:07–15:10",
+          "description": "Zerg уже билися з цією силою тисячі років тому."
+        }
+      ]
+    },
+    {
+      "episode_number": 89,
+      "arc": "АРКА XVI — THE FIRST CONTACT",
+      "timecode": "15:10–15:20",
+      "title": "THE FIRST SWARM",
+      "scenes": [
+        {
+          "timecode": "15:10–15:13",
+          "description": "Древні Zerg атакують чорні міста."
+        },
+        {
+          "timecode": "15:13–15:17",
+          "description": "Їх мільярди."
+        },
+        {
+          "timecode": "15:17–15:20",
+          "description": "Чорна сила знищує їх.\n\nМайже всіх."
+        }
+      ]
+    },
+    {
+      "episode_number": 90,
+      "arc": "АРКА XVI — THE FIRST CONTACT",
+      "timecode": "15:20–15:30",
+      "title": "THE SURVIVOR",
+      "scenes": [
+        {
+          "timecode": "15:20–15:23",
+          "description": "Один древній Zerg ховається під землею."
+        },
+        {
+          "timecode": "15:23–15:27",
+          "description": "Він засинає."
+        },
+        {
+          "timecode": "15:27–15:30",
+          "description": "Його очі відкриваються.\n\nЦе пращур сучасного Рою."
+        }
+      ]
+    },
+    {
+      "episode_number": 91,
+      "arc": "АРКА XVII — THE TRUTH",
+      "timecode": "15:30–15:40",
+      "title": "THE ORIGIN",
+      "scenes": [
+        {
+          "timecode": "15:30–15:33",
+          "description": "Древня істота показує видіння."
+        },
+        {
+          "timecode": "15:33–15:37",
+          "description": "Zerg не були створені для війни."
+        },
+        {
+          "timecode": "15:37–15:40",
+          "description": "Їх створили для виживання."
+        }
+      ]
+    },
+    {
+      "episode_number": 92,
+      "arc": "АРКА XVII — THE TRUTH",
+      "timecode": "15:40–15:50",
+      "title": "THE HUNTERS",
+      "scenes": [
+        {
+          "timecode": "15:40–15:43",
+          "description": "Показуються чорні істоти."
+        },
+        {
+          "timecode": "15:43–15:47",
+          "description": "Вони полюють на цілі цивілізації."
+        },
+        {
+          "timecode": "15:47–15:50",
+          "description": "Zerg були єдиними, хто навчився адаптуватися."
+        }
+      ]
+    },
+    {
+      "episode_number": 93,
+      "arc": "АРКА XVII — THE TRUTH",
+      "timecode": "15:50–16:00",
+      "title": "THE EVOLUTION",
+      "scenes": [
+        {
+          "timecode": "15:50–15:53",
+          "description": "Одна Zerg-істота поглинає іншу."
+        },
+        {
+          "timecode": "15:53–15:57",
+          "description": "Її тіло змінюється."
+        },
+        {
+          "timecode": "15:57–16:00",
+          "description": "Наступна форма стає сильнішою.\n\nТак почалася еволюція Рою."
+        }
+      ]
+    },
+    {
+      "episode_number": 94,
+      "arc": "АРКА XVII — THE TRUTH",
+      "timecode": "16:00–16:10",
+      "title": "THE SECRET",
+      "scenes": [
+        {
+          "timecode": "16:00–16:03",
+          "description": "Протягом тисячоліть Zerg поглинали ДНК світів."
+        },
+        {
+          "timecode": "16:03–16:07",
+          "description": "Кожна перемога змінювала їх."
+        },
+        {
+          "timecode": "16:07–16:10",
+          "description": "Але чорна сила чекала."
+        }
+      ]
+    },
+    {
+      "episode_number": 95,
+      "arc": "АРКА XVII — THE TRUTH",
+      "timecode": "16:10–16:20",
+      "title": "THE PURPOSE",
+      "scenes": [
+        {
+          "timecode": "16:10–16:13",
+          "description": "Protoss-командир дивиться на карту."
+        },
+        {
+          "timecode": "16:13–16:17",
+          "description": "Усі поглинені світи утворюють одну лінію."
+        },
+        {
+          "timecode": "16:17–16:20",
+          "description": "Лінія веде за межі галактики."
+        }
+      ]
+    },
+    {
+      "episode_number": 96,
+      "arc": "АРКА XVIII — BEYOND THE SECTOR",
+      "timecode": "16:20–16:30",
+      "title": "THE GATE",
+      "scenes": [
+        {
+          "timecode": "16:20–16:23",
+          "description": "У космосі відкривається древній портал."
+        },
+        {
+          "timecode": "16:23–16:27",
+          "description": "Його діаметр — розміром із планету."
+        },
+        {
+          "timecode": "16:27–16:30",
+          "description": "Zerg-рой летить до нього."
+        }
+      ]
+    },
+    {
+      "episode_number": 97,
+      "arc": "АРКА XVIII — BEYOND THE SECTOR",
+      "timecode": "16:30–16:40",
+      "title": "ENTER",
+      "scenes": [
+        {
+          "timecode": "16:30–16:33",
+          "description": "Перші Mutalisks входять у портал."
+        },
+        {
+          "timecode": "16:33–16:37",
+          "description": "За ними — Leviathan-подібні істоти."
+        },
+        {
+          "timecode": "16:37–16:40",
+          "description": "Потім — увесь флот."
+        }
+      ]
+    },
+    {
+      "episode_number": 98,
+      "arc": "АРКА XVIII — BEYOND THE SECTOR",
+      "timecode": "16:40–16:50",
+      "title": "THE OTHER SIDE",
+      "scenes": [
+        {
+          "timecode": "16:40–16:43",
+          "description": "Світло."
+        },
+        {
+          "timecode": "16:43–16:47",
+          "description": "Камера виходить з порталу."
+        },
+        {
+          "timecode": "16:47–16:50",
+          "description": "Перед нею — незліченна кількість галактик."
+        }
+      ]
+    },
+    {
+      "episode_number": 99,
+      "arc": "АРКА XVIII — BEYOND THE SECTOR",
+      "timecode": "16:50–17:00",
+      "title": "THE GRAVEYARD",
+      "scenes": [
+        {
+          "timecode": "16:50–16:53",
+          "description": "Між галактиками плавають уламки планет."
+        },
+        {
+          "timecode": "16:53–16:57",
+          "description": "Сотні мертвих цивілізацій."
+        },
+        {
+          "timecode": "16:57–17:00",
+          "description": "У центрі — гігантська чорна структура."
+        }
+      ]
+    },
+    {
+      "episode_number": 100,
+      "arc": "АРКА XVIII — BEYOND THE SECTOR",
+      "timecode": "17:00–17:10",
+      "title": "THE HEART",
+      "scenes": [
+        {
+          "timecode": "17:00–17:03",
+          "description": "Камера наближається до структури."
+        },
+        {
+          "timecode": "17:03–17:07",
+          "description": "Вона пульсує."
+        },
+        {
+          "timecode": "17:07–17:10",
+          "description": "Виявляється:\n\nце живе."
+        }
+      ]
+    },
+    {
+      "episode_number": 101,
+      "arc": "АРКА XIX — THE HEART OF THE UNKNOWN",
+      "timecode": "17:10–17:20",
+      "title": "THE PULSE",
+      "scenes": [
+        {
+          "timecode": "17:10–17:13",
+          "description": "Пульс проходить крізь космос."
+        },
+        {
+          "timecode": "17:13–17:17",
+          "description": "Zerg завмирають."
+        },
+        {
+          "timecode": "17:17–17:20",
+          "description": "Broodmother падає на коліна.\n\nВона впізнала цей сигнал."
+        }
+      ]
+    },
+    {
+      "episode_number": 102,
+      "arc": "АРКА XIX — THE HEART OF THE UNKNOWN",
+      "timecode": "17:20–17:30",
+      "title": "THE MEMORY",
+      "scenes": [
+        {
+          "timecode": "17:20–17:23",
+          "description": "Вона бачить древній Hive."
+        },
+        {
+          "timecode": "17:23–17:27",
+          "description": "Величезна істота перед ним."
+        },
+        {
+          "timecode": "17:27–17:30",
+          "description": "Це джерело всіх стародавніх сигналів."
+        }
+      ]
+    },
+    {
+      "episode_number": 103,
+      "arc": "АРКА XIX — THE HEART OF THE UNKNOWN",
+      "timecode": "17:30–17:40",
+      "title": "THE FIRST MOTHER",
+      "scenes": [
+        {
+          "timecode": "17:30–17:33",
+          "description": "Гігантська істота відкриває очі."
+        },
+        {
+          "timecode": "17:33–17:37",
+          "description": "Навколо неї — мільйони яєць."
+        },
+        {
+          "timecode": "17:37–17:40",
+          "description": "Це перша Zerg-мати."
+        }
+      ]
+    },
+    {
+      "episode_number": 104,
+      "arc": "АРКА XIX — THE HEART OF THE UNKNOWN",
+      "timecode": "17:40–17:50",
+      "title": "THE CREATION",
+      "scenes": [
+        {
+          "timecode": "17:40–17:43",
+          "description": "Перша мати створює перших Zerg."
+        },
+        {
+          "timecode": "17:43–17:47",
+          "description": "Але за нею спостерігають чорні істоти."
+        },
+        {
+          "timecode": "17:47–17:50",
+          "description": "Вони чекали саме цього."
+        }
+      ]
+    },
+    {
+      "episode_number": 105,
+      "arc": "АРКА XIX — THE HEART OF THE UNKNOWN",
+      "timecode": "17:50–18:00",
+      "title": "THE BETRAYAL",
+      "scenes": [
+        {
+          "timecode": "17:50–17:53",
+          "description": "Чорні істоти атакують."
+        },
+        {
+          "timecode": "17:53–17:57",
+          "description": "Перша мати захищає рій."
+        },
+        {
+          "timecode": "17:57–18:00",
+          "description": "Вона закриває портал.\n\nАле сама залишається по той бік."
+        }
+      ]
+    },
+    {
+      "episode_number": 106,
+      "arc": "АРКА XX — THE RETURN",
+      "timecode": "18:00–18:10",
+      "title": "OPENING",
+      "scenes": [
+        {
+          "timecode": "18:00–18:03",
+          "description": "Сучасні Zerg стоять перед порталом."
+        },
+        {
+          "timecode": "18:03–18:07",
+          "description": "Нова Zerg-істота підходить до нього."
+        },
+        {
+          "timecode": "18:07–18:10",
+          "description": "Вона торкається поверхні.\n\nПортал відкривається."
+        }
+      ]
+    },
+    {
+      "episode_number": 107,
+      "arc": "АРКА XX — THE RETURN",
+      "timecode": "18:10–18:20",
+      "title": "THE MOTHER RETURNS",
+      "scenes": [
+        {
+          "timecode": "18:10–18:13",
+          "description": "З порталу виходить величезна тінь."
+        },
+        {
+          "timecode": "18:13–18:17",
+          "description": "Її панцир заповнює весь кадр."
+        },
+        {
+          "timecode": "18:17–18:20",
+          "description": "Перша мати повертається."
+        }
+      ]
+    },
+    {
+      "episode_number": 108,
+      "arc": "АРКА XX — THE RETURN",
+      "timecode": "18:20–18:30",
+      "title": "SILENCE",
+      "scenes": [
+        {
+          "timecode": "18:20–18:23",
+          "description": "Увесь Zerg-рой завмирає."
+        },
+        {
+          "timecode": "18:23–18:27",
+          "description": "Broodmother схиляє голову."
+        },
+        {
+          "timecode": "18:27–18:30",
+          "description": "Перша мати дивиться на неї.\n\nЖодного звуку."
+        }
+      ]
+    },
+    {
+      "episode_number": 109,
+      "arc": "АРКА XX — THE RETURN",
+      "timecode": "18:30–18:40",
+      "title": "THE COMMAND",
+      "scenes": [
+        {
+          "timecode": "18:30–18:33",
+          "description": "Перша мати піднімає голову."
+        },
+        {
+          "timecode": "18:33–18:37",
+          "description": "Психічна хвиля проходить крізь усі Zerg."
+        },
+        {
+          "timecode": "18:37–18:40",
+          "description": "SURVIVE."
+        }
+      ]
+    },
+    {
+      "episode_number": 110,
+      "arc": "АРКА XX — THE RETURN",
+      "timecode": "18:40–18:50",
+      "title": "THE SWARM ANSWERS",
+      "scenes": [
+        {
+          "timecode": "18:40–18:43",
+          "description": "Один Zergling реве."
+        },
+        {
+          "timecode": "18:43–18:46",
+          "description": "До нього приєднуються тисячі."
+        },
+        {
+          "timecode": "18:46–18:50",
+          "description": "Мільйони.\n\nКосмос тремтить."
+        }
+      ]
+    },
+    {
+      "episode_number": 111,
+      "arc": "АРКА XXI — THE HUNTERS RETURN",
+      "timecode": "18:50–19:00",
+      "title": "DARKNESS",
+      "scenes": [
+        {
+          "timecode": "18:50–18:53",
+          "description": "За межами галактики темніє космос."
+        },
+        {
+          "timecode": "18:53–18:57",
+          "description": "З'являються чорні портали."
+        },
+        {
+          "timecode": "18:57–19:00",
+          "description": "Їх сотні."
+        }
+      ]
+    },
+    {
+      "episode_number": 112,
+      "arc": "АРКА XXI — THE HUNTERS RETURN",
+      "timecode": "19:00–19:10",
+      "title": "THE HUNTER FLEET",
+      "scenes": [
+        {
+          "timecode": "19:00–19:03",
+          "description": "З порталів виходять кораблі."
+        },
+        {
+          "timecode": "19:03–19:07",
+          "description": "Вони не схожі ні на що відоме."
+        },
+        {
+          "timecode": "19:07–19:10",
+          "description": "Їхній флот закриває зорі."
+        }
+      ]
+    },
+    {
+      "episode_number": 113,
+      "arc": "АРКА XXI — THE HUNTERS RETURN",
+      "timecode": "19:10–19:20",
+      "title": "PROTOSS ARRIVE",
+      "scenes": [
+        {
+          "timecode": "19:10–19:13",
+          "description": "Protoss-флот виходить із Warp."
+        },
+        {
+          "timecode": "19:13–19:17",
+          "description": "Вони бачать чорну армаду."
+        },
+        {
+          "timecode": "19:17–19:20",
+          "description": "Командир активує всі системи зброї."
+        }
+      ]
+    },
+    {
+      "episode_number": 114,
+      "arc": "АРКА XXI — THE HUNTERS RETURN",
+      "timecode": "19:20–19:30",
+      "title": "ZERG RISE",
+      "scenes": [
+        {
+          "timecode": "19:20–19:23",
+          "description": "На планеті відкриваються Hive."
+        },
+        {
+          "timecode": "19:23–19:27",
+          "description": "Мільйони Zerg виходять назовні."
+        },
+        {
+          "timecode": "19:27–19:30",
+          "description": "Вони дивляться в небо."
+        }
+      ]
+    },
+    {
+      "episode_number": 115,
+      "arc": "АРКА XXI — THE HUNTERS RETURN",
+      "timecode": "19:30–19:40",
+      "title": "THREE SIDES",
+      "scenes": [
+        {
+          "timecode": "19:30–19:33",
+          "description": "Protoss."
+        },
+        {
+          "timecode": "19:33–19:36",
+          "description": "Zerg."
+        },
+        {
+          "timecode": "19:36–19:40",
+          "description": "Hunters.\n\nТри армії.\n\nОдна планета."
+        }
+      ]
+    },
+    {
+      "episode_number": 116,
+      "arc": "АРКА XXII — THE GREAT WAR",
+      "timecode": "19:40–19:50",
+      "title": "FIRE",
+      "scenes": [
+        {
+          "timecode": "19:40–19:43",
+          "description": "Hunters відкривають вогонь."
+        },
+        {
+          "timecode": "19:43–19:46",
+          "description": "Protoss-флот відповідає."
+        },
+        {
+          "timecode": "19:46–19:50",
+          "description": "Zerg кидаються вперед."
+        }
+      ]
+    },
+    {
+      "episode_number": 117,
+      "arc": "АРКА XXII — THE GREAT WAR",
+      "timecode": "19:50–20:00",
+      "title": "THE CHARGE",
+      "scenes": [
+        {
+          "timecode": "19:50–19:53",
+          "description": "Мільйони Zerg біжать рівниною."
+        },
+        {
+          "timecode": "19:53–19:57",
+          "description": "Ultralisks прориваються вперед."
+        },
+        {
+          "timecode": "19:57–20:00",
+          "description": "Нові Zerg стрибають над ними."
+        }
+      ]
+    },
+    {
+      "episode_number": 118,
+      "arc": "АРКА XXII — THE GREAT WAR",
+      "timecode": "20:00–20:10",
+      "title": "AIR WAR",
+      "scenes": [
+        {
+          "timecode": "20:00–20:03",
+          "description": "Mutalisks атакують чорні кораблі."
+        },
+        {
+          "timecode": "20:03–20:07",
+          "description": "Protoss Interceptors приєднуються."
+        },
+        {
+          "timecode": "20:07–20:10",
+          "description": "Три армії б'ються в небі."
+        }
+      ]
+    },
+    {
+      "episode_number": 119,
+      "arc": "АРКА XXII — THE GREAT WAR",
+      "timecode": "20:10–20:20",
+      "title": "THE TITAN",
+      "scenes": [
+        {
+          "timecode": "20:10–20:13",
+          "description": "Із чорного флоту виходить величезний корабель."
+        },
+        {
+          "timecode": "20:13–20:17",
+          "description": "Він у десятки разів більший за Carrier."
+        },
+        {
+          "timecode": "20:17–20:20",
+          "description": "Його гармати заряджаються."
+        }
+      ]
+    },
+    {
+      "episode_number": 120,
+      "arc": "АРКА XXII — THE GREAT WAR",
+      "timecode": "20:20–20:30",
+      "title": "IMPACT",
+      "scenes": [
+        {
+          "timecode": "20:20–20:23",
+          "description": "Зброя Titan активується."
+        },
+        {
+          "timecode": "20:23–20:27",
+          "description": "Промінь проходить крізь поле бою."
+        },
+        {
+          "timecode": "20:27–20:30",
+          "description": "Планета розколюється."
+        }
+      ]
+    },
+    {
+      "episode_number": 121,
+      "arc": "АРКА XXIII — THE PLANET CORE",
+      "timecode": "20:30–20:40",
+      "title": "THE FALL",
+      "scenes": [
+        {
+          "timecode": "20:30–20:33",
+          "description": "Protoss падають у величезну тріщину."
+        },
+        {
+          "timecode": "20:33–20:37",
+          "description": "Zerg також провалюються."
+        },
+        {
+          "timecode": "20:37–20:40",
+          "description": "Камера летить до ядра планети."
+        }
+      ]
+    },
+    {
+      "episode_number": 122,
+      "arc": "АРКА XXIII — THE PLANET CORE",
+      "timecode": "20:40–20:50",
+      "title": "THE CORE",
+      "scenes": [
+        {
+          "timecode": "20:40–20:43",
+          "description": "Під поверхнею — величезна сфера."
+        },
+        {
+          "timecode": "20:43–20:47",
+          "description": "Вона пульсує."
+        },
+        {
+          "timecode": "20:47–20:50",
+          "description": "Це не ядро.\n\nЦе яйце."
+        }
+      ]
+    },
+    {
+      "episode_number": 123,
+      "arc": "АРКА XXIII — THE PLANET CORE",
+      "timecode": "20:50–21:00",
+      "title": "THE GIANT EGG",
+      "scenes": [
+        {
+          "timecode": "20:50–20:53",
+          "description": "Яйце починає тріскатися."
+        },
+        {
+          "timecode": "20:53–20:57",
+          "description": "Zerg завмирають."
+        },
+        {
+          "timecode": "20:57–21:00",
+          "description": "Всередині рухається щось величезне."
+        }
+      ]
+    },
+    {
+      "episode_number": 124,
+      "arc": "АРКА XXIII — THE PLANET CORE",
+      "timecode": "21:00–21:10",
+      "title": "BIRTH",
+      "scenes": [
+        {
+          "timecode": "21:00–21:03",
+          "description": "Панцир розривається."
+        },
+        {
+          "timecode": "21:03–21:07",
+          "description": "Із нього виходить гігантська істота."
+        },
+        {
+          "timecode": "21:07–21:10",
+          "description": "Вона відкриває очі."
+        }
+      ]
+    },
+    {
+      "episode_number": 125,
+      "arc": "АРКА XXIII — THE PLANET CORE",
+      "timecode": "21:10–21:20",
+      "title": "THE NEW KING",
+      "scenes": [
+        {
+          "timecode": "21:10–21:13",
+          "description": "Усі Zerg схиляються."
+        },
+        {
+          "timecode": "21:13–21:17",
+          "description": "Broodmother дивиться на істоту."
+        },
+        {
+          "timecode": "21:17–21:20",
+          "description": "Перша мати також схиляє голову.\n\nНародився новий повелитель Рою."
+        }
+      ]
+    },
+    {
+      "episode_number": 126,
+      "arc": "АРКА XXIV — THE NEW EVOLUTION",
+      "timecode": "21:20–21:30",
+      "title": "THE ROAR",
+      "scenes": [
+        {
+          "timecode": "21:20–21:23",
+          "description": "Новий король реве."
+        },
+        {
+          "timecode": "21:23–21:27",
+          "description": "Його рев проходить крізь планету."
+        },
+        {
+          "timecode": "21:27–21:30",
+          "description": "У далекому космосі прокидаються Zerg."
+        }
+      ]
+    },
+    {
+      "episode_number": 127,
+      "arc": "АРКА XXIV — THE NEW EVOLUTION",
+      "timecode": "21:30–21:40",
+      "title": "THE DISTANT WORLDS",
+      "scenes": [
+        {
+          "timecode": "21:30–21:33",
+          "description": "Камера показує далеку планету."
+        },
+        {
+          "timecode": "21:33–21:37",
+          "description": "На ній відкриваються Hive."
+        },
+        {
+          "timecode": "21:37–21:40",
+          "description": "Потім інша планета.\n\nПотім ще одна."
+        }
+      ]
+    },
+    {
+      "episode_number": 128,
+      "arc": "АРКА XXIV — THE NEW EVOLUTION",
+      "timecode": "21:40–21:50",
+      "title": "THE HIDDEN SWARM",
+      "scenes": [
+        {
+          "timecode": "21:40–21:43",
+          "description": "Сотні планет."
+        },
+        {
+          "timecode": "21:43–21:47",
+          "description": "На кожній — Zerg."
+        },
+        {
+          "timecode": "21:47–21:50",
+          "description": "Вони чекали наказу тисячі років."
+        }
+      ]
+    },
+    {
+      "episode_number": 129,
+      "arc": "АРКА XXIV — THE NEW EVOLUTION",
+      "timecode": "21:50–22:00",
+      "title": "THE COMMAND",
+      "scenes": [
+        {
+          "timecode": "21:50–21:53",
+          "description": "Новий король піднімає голову."
+        },
+        {
+          "timecode": "21:53–21:57",
+          "description": "Психічний сигнал розходиться крізь галактики."
+        },
+        {
+          "timecode": "21:57–22:00",
+          "description": "RISE."
+        }
+      ]
+    },
+    {
+      "episode_number": 130,
+      "arc": "АРКА XXIV — THE NEW EVOLUTION",
+      "timecode": "22:00–22:10",
+      "title": "THE SWARM RISES",
+      "scenes": [
+        {
+          "timecode": "22:00–22:03",
+          "description": "Мільйони Hive одночасно відкриваються."
+        },
+        {
+          "timecode": "22:03–22:07",
+          "description": "Небо кожної планети темніє."
+        },
+        {
+          "timecode": "22:07–22:10",
+          "description": "Zerg починають рух."
+        }
+      ]
+    },
+    {
+      "episode_number": 131,
+      "arc": "АРКА XXV — THE PROTOSS DECISION",
+      "timecode": "22:10–22:20",
+      "title": "THE COUNCIL",
+      "scenes": [
+        {
+          "timecode": "22:10–22:13",
+          "description": "Protoss-командири збираються."
+        },
+        {
+          "timecode": "22:13–22:17",
+          "description": "На екрані — карта галактики."
+        },
+        {
+          "timecode": "22:17–22:20",
+          "description": "Вона майже повністю червона."
+        }
+      ]
+    },
+    {
+      "episode_number": 132,
+      "arc": "АРКА XXV — THE PROTOSS DECISION",
+      "timecode": "22:20–22:30",
+      "title": "NO CHOICE",
+      "scenes": [
+        {
+          "timecode": "22:20–22:23",
+          "description": "Один командир активує древню зброю."
+        },
+        {
+          "timecode": "22:23–22:27",
+          "description": "Інші дивляться на нього."
+        },
+        {
+          "timecode": "22:27–22:30",
+          "description": "Він каже:\n\nWE HAVE NO OTHER CHOICE."
+        }
+      ]
+    },
+    {
+      "episode_number": 133,
+      "arc": "АРКА XXV — THE PROTOSS DECISION",
+      "timecode": "22:30–22:40",
+      "title": "THE FORBIDDEN WEAPON",
+      "scenes": [
+        {
+          "timecode": "22:30–22:33",
+          "description": "Відкривається древній храм."
+        },
+        {
+          "timecode": "22:33–22:37",
+          "description": "Всередині — гігантське енергетичне ядро."
+        },
+        {
+          "timecode": "22:37–22:40",
+          "description": "Воно починає заряджатися."
+        }
+      ]
+    },
+    {
+      "episode_number": 134,
+      "arc": "АРКА XXV — THE PROTOSS DECISION",
+      "timecode": "22:40–22:50",
+      "title": "THE PROTOSS GOD",
+      "scenes": [
+        {
+          "timecode": "22:40–22:43",
+          "description": "У ядрі з'являється силует."
+        },
+        {
+          "timecode": "22:43–22:47",
+          "description": "Він відкриває очі."
+        },
+        {
+          "timecode": "22:47–22:50",
+          "description": "Protoss схиляються.\n\nВони розбудили свого бога."
+        }
+      ]
+    },
+    {
+      "episode_number": 135,
+      "arc": "АРКА XXV — THE PROTOSS DECISION",
+      "timecode": "22:50–23:00",
+      "title": "THE ANSWER",
+      "scenes": [
+        {
+          "timecode": "22:50–22:53",
+          "description": "Далеко в космосі новий Zerg-король відкриває очі."
+        },
+        {
+          "timecode": "22:53–22:57",
+          "description": "Він відчуває Protoss-бога."
+        },
+        {
+          "timecode": "22:57–23:00",
+          "description": "Посмішки немає.\n\nЄ лише рев."
+        }
+      ]
+    },
+    {
+      "episode_number": 136,
+      "arc": "АРКА XXVI — GODS",
+      "timecode": "23:00–23:10",
+      "title": "TWO GODS",
+      "scenes": [
+        {
+          "timecode": "23:00–23:03",
+          "description": "Protoss-бог виходить із храму."
+        },
+        {
+          "timecode": "23:03–23:07",
+          "description": "Zerg-король виходить із Hive."
+        },
+        {
+          "timecode": "23:07–23:10",
+          "description": "Дві величезні фігури дивляться одна на одну через космос."
+        }
+      ]
+    },
+    {
+      "episode_number": 137,
+      "arc": "АРКА XXVI — GODS",
+      "timecode": "23:10–23:20",
+      "title": "FIRST STRIKE",
+      "scenes": [
+        {
+          "timecode": "23:10–23:13",
+          "description": "Protoss-бог піднімає руку."
+        },
+        {
+          "timecode": "23:13–23:17",
+          "description": "Гігантський енергетичний промінь."
+        },
+        {
+          "timecode": "23:17–23:20",
+          "description": "Zerg-король блокує його панциром."
+        }
+      ]
+    },
+    {
+      "episode_number": 138,
+      "arc": "АРКА XXVI — GODS",
+      "timecode": "23:20–23:30",
+      "title": "EVOLUTION ANSWERS",
+      "scenes": [
+        {
+          "timecode": "23:20–23:23",
+          "description": "Панцир короля тріскається."
+        },
+        {
+          "timecode": "23:23–23:27",
+          "description": "Під ним виростає новий шар."
+        },
+        {
+          "timecode": "23:27–23:30",
+          "description": "Zerg адаптувався."
+        }
+      ]
+    },
+    {
+      "episode_number": 139,
+      "arc": "АРКА XXVI — GODS",
+      "timecode": "23:30–23:40",
+      "title": "THE COUNTERATTACK",
+      "scenes": [
+        {
+          "timecode": "23:30–23:33",
+          "description": "Король реве."
+        },
+        {
+          "timecode": "23:33–23:37",
+          "description": "Усі Zerg одночасно атакують."
+        },
+        {
+          "timecode": "23:37–23:40",
+          "description": "Мільйони істот рухаються як одна."
+        }
+      ]
+    },
+    {
+      "episode_number": 140,
+      "arc": "АРКА XXVI — GODS",
+      "timecode": "23:40–23:50",
+      "title": "THE GOD FALLS",
+      "scenes": [
+        {
+          "timecode": "23:40–23:43",
+          "description": "Zerg-атака досягає храму."
+        },
+        {
+          "timecode": "23:43–23:47",
+          "description": "Protoss-бог відступає."
+        },
+        {
+          "timecode": "23:47–23:50",
+          "description": "На його обличчі — вперше страх."
+        }
+      ]
+    },
+    {
+      "episode_number": 141,
+      "arc": "АРКА XXVII — THE HUNTERS' SECRET",
+      "timecode": "23:50–24:00",
+      "title": "THE BLACK CITY",
+      "scenes": [
+        {
+          "timecode": "23:50–23:53",
+          "description": "Hunter-командир дивиться на бій."
+        },
+        {
+          "timecode": "23:53–23:57",
+          "description": "Він усміхається."
+        },
+        {
+          "timecode": "23:57–24:00",
+          "description": "Позаду нього відкривається ще більший портал."
+        }
+      ]
+    },
+    {
+      "episode_number": 142,
+      "arc": "АРКА XXVII — THE HUNTERS' SECRET",
+      "timecode": "24:00–24:10",
+      "title": "THE REAL FLEET",
+      "scenes": [
+        {
+          "timecode": "24:00–24:03",
+          "description": "Із порталу виходять нові кораблі."
+        },
+        {
+          "timecode": "24:03–24:07",
+          "description": "Їх не сотні.\n\nЇх мільйони."
+        },
+        {
+          "timecode": "24:07–24:10",
+          "description": "Вони закривають галактику."
+        }
+      ]
+    },
+    {
+      "episode_number": 143,
+      "arc": "АРКА XXVII — THE HUNTERS' SECRET",
+      "timecode": "24:10–24:20",
+      "title": "THEY WERE WAITING",
+      "scenes": [
+        {
+          "timecode": "24:10–24:13",
+          "description": "Hunter-командир дивиться на Zerg."
+        },
+        {
+          "timecode": "24:13–24:17",
+          "description": "Він говорить:\n\nWE WANTED YOU TO EVOLVE."
+        },
+        {
+          "timecode": "24:17–24:20",
+          "description": "Zerg-король піднімає голову."
+        }
+      ]
+    },
+    {
+      "episode_number": 144,
+      "arc": "АРКА XXVII — THE HUNTERS' SECRET",
+      "timecode": "24:20–24:30",
+      "title": "THE EXPERIMENT",
+      "scenes": [
+        {
+          "timecode": "24:20–24:23",
+          "description": "Спогади."
+        },
+        {
+          "timecode": "24:23–24:27",
+          "description": "Hunters направляли Zerg до різних світів."
+        },
+        {
+          "timecode": "24:27–24:30",
+          "description": "Вони спостерігали за кожною мутацією.\n\nZerg були експериментом."
+        }
+      ]
+    },
+    {
+      "episode_number": 145,
+      "arc": "АРКА XXVII — THE HUNTERS' SECRET",
+      "timecode": "24:30–24:40",
+      "title": "THE PURPOSE",
+      "scenes": [
+        {
+          "timecode": "24:30–24:33",
+          "description": "На екрані Hunter з'являється формула."
+        },
+        {
+          "timecode": "24:33–24:37",
+          "description": "Вона показує еволюцію Zerg."
+        },
+        {
+          "timecode": "24:37–24:40",
+          "description": "Фінальна стадія:\n\nPERFECT ORGANISM."
+        }
+      ]
+    },
+    {
+      "episode_number": 146,
+      "arc": "АРКА XXVIII — THE BETRAYAL OF THE HUNTERS",
+      "timecode": "24:40–24:50",
+      "title": "TERMINATION",
+      "scenes": [
+        {
+          "timecode": "24:40–24:43",
+          "description": "Hunter-командир активує кнопку."
+        },
+        {
+          "timecode": "24:43–24:47",
+          "description": "На всіх кораблях з'являється наказ."
+        },
+        {
+          "timecode": "24:47–24:50",
+          "description": "TERMINATE EXPERIMENT."
+        }
+      ]
+    },
+    {
+      "episode_number": 147,
+      "arc": "АРКА XXVIII — THE BETRAYAL OF THE HUNTERS",
+      "timecode": "24:50–25:00",
+      "title": "FIRESTORM",
+      "scenes": [
+        {
+          "timecode": "24:50–24:53",
+          "description": "Мільйони кораблів відкривають вогонь."
+        },
+        {
+          "timecode": "24:53–24:57",
+          "description": "Планети вибухають."
+        },
+        {
+          "timecode": "24:57–25:00",
+          "description": "Zerg-рой починає падати."
+        }
+      ]
+    },
+    {
+      "episode_number": 148,
+      "arc": "АРКА XXVIII — THE BETRAYAL OF THE HUNTERS",
+      "timecode": "25:00–25:10",
+      "title": "THE KING",
+      "scenes": [
+        {
+          "timecode": "25:00–25:03",
+          "description": "Zerg-король стоїть серед вибухів."
+        },
+        {
+          "timecode": "25:03–25:07",
+          "description": "Його тіло змінюється."
+        },
+        {
+          "timecode": "25:07–25:10",
+          "description": "Він стає ще більшим."
+        }
+      ]
+    },
+    {
+      "episode_number": 149,
+      "arc": "АРКА XXVIII — THE BETRAYAL OF THE HUNTERS",
+      "timecode": "25:10–25:20",
+      "title": "THE FINAL EVOLUTION",
+      "scenes": [
+        {
+          "timecode": "25:10–25:13",
+          "description": "Панцир повністю змінюється."
+        },
+        {
+          "timecode": "25:13–25:17",
+          "description": "За спиною розкриваються величезні крила."
+        },
+        {
+          "timecode": "25:17–25:20",
+          "description": "Король піднімається в космос."
+        }
+      ]
+    },
+    {
+      "episode_number": 150,
+      "arc": "АРКА XXVIII — THE BETRAYAL OF THE HUNTERS",
+      "timecode": "25:20–25:30",
+      "title": "THE SWARM KING",
+      "scenes": [
+        {
+          "timecode": "25:20–25:23",
+          "description": "Він пролітає крізь флот Hunters."
+        },
+        {
+          "timecode": "25:23–25:27",
+          "description": "Кораблі вибухають один за одним."
+        },
+        {
+          "timecode": "25:27–25:30",
+          "description": "За ним летить увесь Zerg-рой."
+        }
+      ]
+    },
+    {
+      "episode_number": 151,
+      "arc": "АРКА XXIX — THE WAR OUTSIDE THE GALAXY",
+      "timecode": "25:30–25:40",
+      "title": "GALACTIC SWARM",
+      "scenes": [
+        {
+          "timecode": "25:30–25:33",
+          "description": "Zerg-рой виходить за межі галактики."
+        },
+        {
+          "timecode": "25:33–25:37",
+          "description": "Мільйони істот летять крізь темряву."
+        },
+        {
+          "timecode": "25:37–25:40",
+          "description": "Попереду — флот Hunters."
+        }
+      ]
+    },
+    {
+      "episode_number": 152,
+      "arc": "АРКА XXIX — THE WAR OUTSIDE THE GALAXY",
+      "timecode": "25:40–25:50",
+      "title": "COLLISION",
+      "scenes": [
+        {
+          "timecode": "25:40–25:43",
+          "description": "Два флоти рухаються назустріч."
+        },
+        {
+          "timecode": "25:43–25:47",
+          "description": "Космос наповнюється вибухами."
+        },
+        {
+          "timecode": "25:47–25:50",
+          "description": "Zerg врізаються у чорні кораблі."
+        }
+      ]
+    },
+    {
+      "episode_number": 153,
+      "arc": "АРКА XXIX — THE WAR OUTSIDE THE GALAXY",
+      "timecode": "25:50–26:00",
+      "title": "THE HIVE FLEET",
+      "scenes": [
+        {
+          "timecode": "25:50–25:53",
+          "description": "Гігантські живі кораблі виходять із порталу."
+        },
+        {
+          "timecode": "25:53–25:57",
+          "description": "Їх сотні тисяч."
+        },
+        {
+          "timecode": "25:57–26:00",
+          "description": "Вони утворюють живий щит."
+        }
+      ]
+    },
+    {
+      "episode_number": 154,
+      "arc": "АРКА XXIX — THE WAR OUTSIDE THE GALAXY",
+      "timecode": "26:00–26:10",
+      "title": "THE BLACK TITAN",
+      "scenes": [
+        {
+          "timecode": "26:00–26:03",
+          "description": "Hunter Titan входить у битву."
+        },
+        {
+          "timecode": "26:03–26:07",
+          "description": "Його корпус закриває половину кадру."
+        },
+        {
+          "timecode": "26:07–26:10",
+          "description": "Він атакує Zerg-короля."
+        }
+      ]
+    },
+    {
+      "episode_number": 155,
+      "arc": "АРКА XXIX — THE WAR OUTSIDE THE GALAXY",
+      "timecode": "26:10–26:20",
+      "title": "KING VS TITAN",
+      "scenes": [
+        {
+          "timecode": "26:10–26:13",
+          "description": "Король летить прямо на Titan."
+        },
+        {
+          "timecode": "26:13–26:17",
+          "description": "Вони стикаються."
+        },
+        {
+          "timecode": "26:17–26:20",
+          "description": "Ударна хвиля розкидає кораблі на тисячі кілометрів."
+        }
+      ]
+    },
+    {
+      "episode_number": 156,
+      "arc": "АРКА XXX — THE LAST SECRET",
+      "timecode": "26:20–26:30",
+      "title": "THE CORE OF THE TITAN",
+      "scenes": [
+        {
+          "timecode": "26:20–26:33",
+          "description": "Король пробиває корпус Titan."
+        },
+        {
+          "timecode": "26:23–26:27",
+          "description": "Всередині — величезне ядро."
+        },
+        {
+          "timecode": "26:27–26:30",
+          "description": "На ньому той самий символ із трьома очима."
+        }
+      ]
+    },
+    {
+      "episode_number": 157,
+      "arc": "АРКА XXX — THE LAST SECRET",
+      "timecode": "26:30–26:40",
+      "title": "THE THIRD EYE",
+      "scenes": [
+        {
+          "timecode": "26:30–26:33",
+          "description": "Король торкається ядра."
+        },
+        {
+          "timecode": "26:33–26:37",
+          "description": "Він бачить видіння."
+        },
+        {
+          "timecode": "26:37–26:40",
+          "description": "Hunters — не творці.\n\nВони теж кимось створені."
+        }
+      ]
+    },
+    {
+      "episode_number": 158,
+      "arc": "АРКА XXX — THE LAST SECRET",
+      "timecode": "26:40–26:50",
+      "title": "THE CREATOR",
+      "scenes": [
+        {
+          "timecode": "26:40–26:43",
+          "description": "За Hunters стоїть ще більша істота."
+        },
+        {
+          "timecode": "26:43–26:47",
+          "description": "Вона сидить у центрі темної галактики."
+        },
+        {
+          "timecode": "26:47–26:50",
+          "description": "Її очі відкриваються."
+        }
+      ]
+    },
+    {
+      "episode_number": 159,
+      "arc": "АРКА XXX — THE LAST SECRET",
+      "timecode": "26:50–27:00",
+      "title": "THE TRUE ENEMY",
+      "scenes": [
+        {
+          "timecode": "26:50–26:53",
+          "description": "Істота дивиться на галактики."
+        },
+        {
+          "timecode": "26:53–26:57",
+          "description": "Вона стискає руку."
+        },
+        {
+          "timecode": "26:57–27:00",
+          "description": "Ціла зоряна система гасне."
+        }
+      ]
+    },
+    {
+      "episode_number": 160,
+      "arc": "АРКА XXX — THE LAST SECRET",
+      "timecode": "27:00–27:10",
+      "title": "THE SWARM SEES IT",
+      "scenes": [
+        {
+          "timecode": "27:00–27:03",
+          "description": "Zerg-король бачить це видіння."
+        },
+        {
+          "timecode": "27:03–27:07",
+          "description": "Його очі спалахують."
+        },
+        {
+          "timecode": "27:07–27:10",
+          "description": "Він передає видіння всьому Рою."
+        }
+      ]
+    },
+    {
+      "episode_number": 161,
+      "arc": "АРКА XXXI — THE FINAL MARCH",
+      "timecode": "27:10–27:20",
+      "title": "UNITED",
+      "scenes": [
+        {
+          "timecode": "27:10–27:13",
+          "description": "Zerg."
+        },
+        {
+          "timecode": "27:13–27:16",
+          "description": "Protoss."
+        },
+        {
+          "timecode": "27:16–27:20",
+          "description": "Навіть частина Hunters.\n\nУсі об'єднуються."
+        }
+      ]
+    },
+    {
+      "episode_number": 162,
+      "arc": "АРКА XXXI — THE FINAL MARCH",
+      "timecode": "27:20–27:30",
+      "title": "THE FLEET",
+      "scenes": [
+        {
+          "timecode": "27:20–27:23",
+          "description": "Protoss Carrier."
+        },
+        {
+          "timecode": "27:23–27:26",
+          "description": "Живі Zerg-кораблі."
+        },
+        {
+          "timecode": "27:26–27:30",
+          "description": "Чорні кораблі Hunters.\n\nВеличезний об'єднаний флот."
+        }
+      ]
+    },
+    {
+      "episode_number": 163,
+      "arc": "АРКА XXXI — THE FINAL MARCH",
+      "timecode": "27:30–27:40",
+      "title": "THE PORTAL",
+      "scenes": [
+        {
+          "timecode": "27:30–27:33",
+          "description": "Перед ними відкривається портал."
+        },
+        {
+          "timecode": "27:33–27:37",
+          "description": "За ним — темна галактика."
+        },
+        {
+          "timecode": "27:37–27:40",
+          "description": "Усі кораблі входять."
+        }
+      ]
+    },
+    {
+      "episode_number": 164,
+      "arc": "АРКА XXXI — THE FINAL MARCH",
+      "timecode": "27:40–27:50",
+      "title": "THE DARK GALAXY",
+      "scenes": [
+        {
+          "timecode": "27:40–27:43",
+          "description": "Камера виходить із порталу."
+        },
+        {
+          "timecode": "27:43–27:47",
+          "description": "Навколо — чорна галактика."
+        },
+        {
+          "timecode": "27:47–27:50",
+          "description": "У її центрі — гігантська істота."
+        }
+      ]
+    },
+    {
+      "episode_number": 165,
+      "arc": "АРКА XXXI — THE FINAL MARCH",
+      "timecode": "27:50–28:00",
+      "title": "THE CREATOR AWAKENS",
+      "scenes": [
+        {
+          "timecode": "27:50–27:53",
+          "description": "Істота відкриває очі."
+        },
+        {
+          "timecode": "27:53–27:57",
+          "description": "Усі кораблі завмирають."
+        },
+        {
+          "timecode": "27:57–28:00",
+          "description": "Її голос проходить крізь космос:\n\nYOU WERE NEVER MEANT TO SURVIVE."
+        }
+      ]
+    },
+    {
+      "episode_number": 166,
+      "arc": "АРКА XXXII — THE FINAL BATTLE",
+      "timecode": "28:00–28:10",
+      "title": "CHARGE",
+      "scenes": [
+        {
+          "timecode": "28:00–28:03",
+          "description": "Protoss-флот відкриває вогонь."
+        },
+        {
+          "timecode": "28:03–28:06",
+          "description": "Hunters атакують."
+        },
+        {
+          "timecode": "28:06–28:10",
+          "description": "Zerg-король веде весь Рій прямо на істоту."
+        }
+      ]
+    },
+    {
+      "episode_number": 167,
+      "arc": "АРКА XXXII — THE FINAL BATTLE",
+      "timecode": "28:10–28:20",
+      "title": "EVERYTHING",
+      "scenes": [
+        {
+          "timecode": "28:10–28:13",
+          "description": "Зірки вибухають."
+        },
+        {
+          "timecode": "28:13–28:16",
+          "description": "Планети розколюються."
+        },
+        {
+          "timecode": "28:16–28:20",
+          "description": "Тисячі кораблів стикаються.\n\nКосмос перетворюється на поле бою."
+        }
+      ]
+    },
+    {
+      "episode_number": 168,
+      "arc": "АРКА XXXII — THE FINAL BATTLE",
+      "timecode": "28:20–28:30",
+      "title": "THE KING'S CHOICE",
+      "scenes": [
+        {
+          "timecode": "28:20–28:23",
+          "description": "Zerg-король бачить ядро істоти."
+        },
+        {
+          "timecode": "28:23–28:27",
+          "description": "Він розуміє:\n\nзнищити її можна лише зсередини."
+        },
+        {
+          "timecode": "28:27–28:30",
+          "description": "Він летить прямо в її груди."
+        }
+      ]
+    },
+    {
+      "episode_number": 169,
+      "arc": "АРКА XXXII — THE FINAL BATTLE",
+      "timecode": "28:30–28:40",
+      "title": "INTO THE HEART",
+      "scenes": [
+        {
+          "timecode": "28:30–28:33",
+          "description": "Король пробиває зовнішній панцир."
+        },
+        {
+          "timecode": "28:33–28:36",
+          "description": "Його поглинає темрява."
+        },
+        {
+          "timecode": "28:36–28:40",
+          "description": "Він опиняється всередині живого організму.\n\nПеред ним — мільярди очей.\n\nCUT."
+        }
+      ]
+    },
+    {
+      "episode_number": 170,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "28:40–28:50",
+      "title": "INSIDE",
+      "scenes": [
+        {
+          "timecode": "28:40–28:43",
+          "description": "Zerg-король стоїть у величезній органічній порожнині."
+        },
+        {
+          "timecode": "28:43–28:47",
+          "description": "Навколо — рухливі стіни."
+        },
+        {
+          "timecode": "28:47–28:50",
+          "description": "У темряві чути:\n\nБУМ.\n\nБУМ.\n\nБУМ."
+        }
+      ]
+    },
+    {
+      "episode_number": 171,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "28:50–29:00",
+      "title": "THE HEARTBEAT",
+      "scenes": [
+        {
+          "timecode": "28:50–28:53",
+          "description": "Перед королем з'являється гігантське серце."
+        },
+        {
+          "timecode": "28:53–28:57",
+          "description": "Кожен удар змінює форму простору."
+        },
+        {
+          "timecode": "28:57–29:00",
+          "description": "Король готує кігті."
+        }
+      ]
+    },
+    {
+      "episode_number": 172,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "29:00–29:10",
+      "title": "THE FIRST BITE",
+      "scenes": [
+        {
+          "timecode": "29:00–29:03",
+          "description": "Він атакує серце."
+        },
+        {
+          "timecode": "29:03–29:07",
+          "description": "Величезний спалах."
+        },
+        {
+          "timecode": "29:07–29:10",
+          "description": "Уся галактика зовні тремтить."
+        }
+      ]
+    },
+    {
+      "episode_number": 173,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "29:10–29:20",
+      "title": "THE SCREAM",
+      "scenes": [
+        {
+          "timecode": "29:10–29:13",
+          "description": "Творець кричить."
+        },
+        {
+          "timecode": "29:13–29:17",
+          "description": "Хвиля проходить через усі кораблі."
+        },
+        {
+          "timecode": "29:17–29:20",
+          "description": "Protoss і Hunters падають.\n\nZerg продовжують атакувати."
+        }
+      ]
+    },
+    {
+      "episode_number": 174,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "29:20–29:30",
+      "title": "THE SWARM WITHIN",
+      "scenes": [
+        {
+          "timecode": "29:20–29:23",
+          "description": "Король відкриває портал усередині істоти."
+        },
+        {
+          "timecode": "29:23–29:27",
+          "description": "Туди вриваються Zerg."
+        },
+        {
+          "timecode": "29:27–29:30",
+          "description": "Вони починають поглинати організм зсередини."
+        }
+      ]
+    },
+    {
+      "episode_number": 175,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "29:30–29:40",
+      "title": "THE COLLAPSE",
+      "scenes": [
+        {
+          "timecode": "29:30–29:33",
+          "description": "Гігантська істота починає руйнуватися."
+        },
+        {
+          "timecode": "29:33–29:37",
+          "description": "Її тіло перетворюється на космічний пил."
+        },
+        {
+          "timecode": "29:37–29:40",
+          "description": "Чорна галактика починає згасати."
+        }
+      ]
+    },
+    {
+      "episode_number": 176,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "29:40–29:50",
+      "title": "THE ESCAPE",
+      "scenes": [
+        {
+          "timecode": "29:40–29:43",
+          "description": "Zerg-король виривається назовні."
+        },
+        {
+          "timecode": "29:43–29:47",
+          "description": "За ним — величезний потік Zerg."
+        },
+        {
+          "timecode": "29:47–29:50",
+          "description": "Вони летять до порталу."
+        }
+      ]
+    },
+    {
+      "episode_number": 177,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "29:50–30:00",
+      "title": "THE LAST PORTAL",
+      "scenes": [
+        {
+          "timecode": "29:50–29:53",
+          "description": "Портал починає закриватися."
+        },
+        {
+          "timecode": "29:53–29:57",
+          "description": "Protoss-кораблі проходять першими."
+        },
+        {
+          "timecode": "29:57–30:00",
+          "description": "Zerg-король залишається позаду."
+        }
+      ]
+    },
+    {
+      "episode_number": 178,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "30:00–30:10",
+      "title": "ALONE",
+      "scenes": [
+        {
+          "timecode": "30:00–30:03",
+          "description": "Король дивиться на портал."
+        },
+        {
+          "timecode": "30:03–30:07",
+          "description": "Навколо нього — руїни чорної галактики."
+        },
+        {
+          "timecode": "30:07–30:10",
+          "description": "Позаду нього відкриваються очі.\n\nНе одні."
+        }
+      ]
+    },
+    {
+      "episode_number": 179,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "30:10–30:20",
+      "title": "MORE",
+      "scenes": [
+        {
+          "timecode": "30:10–30:13",
+          "description": "Десятки очей."
+        },
+        {
+          "timecode": "30:13–30:17",
+          "description": "Сотні."
+        },
+        {
+          "timecode": "30:17–30:20",
+          "description": "Мільйони.\n\nВін розуміє:\n\nТворець був лише одним із них."
+        }
+      ]
+    },
+    {
+      "episode_number": 180,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "30:20–30:30",
+      "title": "THE REAL BEYOND",
+      "scenes": [
+        {
+          "timecode": "30:20–30:23",
+          "description": "Камера відлітає."
+        },
+        {
+          "timecode": "30:23–30:27",
+          "description": "За межами галактики відкривається безмежний простір."
+        },
+        {
+          "timecode": "30:27–30:30",
+          "description": "У ньому рухаються незліченні величезні форми."
+        }
+      ]
+    },
+    {
+      "episode_number": 181,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "30:30–30:40",
+      "title": "THE COSMIC SWARM",
+      "scenes": [
+        {
+          "timecode": "30:30–30:33",
+          "description": "Zerg-король дивиться на них."
+        },
+        {
+          "timecode": "30:33–30:37",
+          "description": "Його очі спалахують."
+        },
+        {
+          "timecode": "30:37–30:40",
+          "description": "Позаду нього з'являється весь його Рій."
+        }
+      ]
+    },
+    {
+      "episode_number": 182,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "30:40–30:50",
+      "title": "THE CHOICE",
+      "scenes": [
+        {
+          "timecode": "30:40–30:43",
+          "description": "Перед королем два шляхи."
+        },
+        {
+          "timecode": "30:43–30:47",
+          "description": "Повернутися до відомої галактики.\n\nАбо летіти далі."
+        },
+        {
+          "timecode": "30:47–30:50",
+          "description": "Він повертається до темряви."
+        }
+      ]
+    },
+    {
+      "episode_number": 183,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "30:50–31:00",
+      "title": "FOLLOW",
+      "scenes": [
+        {
+          "timecode": "30:50–30:53",
+          "description": "Один Zerg летить за ним."
+        },
+        {
+          "timecode": "30:53–30:57",
+          "description": "Потім тисяча."
+        },
+        {
+          "timecode": "30:57–31:00",
+          "description": "Потім мільйони.\n\nРій залишає галактику."
+        }
+      ]
+    },
+    {
+      "episode_number": 184,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "31:00–31:10",
+      "title": "THE UNKNOWN",
+      "scenes": [
+        {
+          "timecode": "31:00–31:03",
+          "description": "Камера летить попереду Рою."
+        },
+        {
+          "timecode": "31:03–31:07",
+          "description": "У темряві з'являється невідома зоряна система."
+        },
+        {
+          "timecode": "31:07–31:10",
+          "description": "На її планетах — життя."
+        }
+      ]
+    },
+    {
+      "episode_number": 185,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "31:10–31:20",
+      "title": "THE NEXT WORLD",
+      "scenes": [
+        {
+          "timecode": "31:10–31:13",
+          "description": "Камера опускається на планету."
+        },
+        {
+          "timecode": "31:13–31:17",
+          "description": "Мирне місто."
+        },
+        {
+          "timecode": "31:17–31:20",
+          "description": "Його мешканці дивляться в небо."
+        }
+      ]
+    },
+    {
+      "episode_number": 186,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "31:20–31:30",
+      "title": "THE SHADOW",
+      "scenes": [
+        {
+          "timecode": "31:20–31:23",
+          "description": "Над містом з'являється величезна тінь."
+        },
+        {
+          "timecode": "31:23–31:27",
+          "description": "Перший Zerg-корабель проходить над містом."
+        },
+        {
+          "timecode": "31:27–31:30",
+          "description": "За ним — тисячі."
+        }
+      ]
+    },
+    {
+      "episode_number": 187,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "31:30–31:40",
+      "title": "NO WARNING",
+      "scenes": [
+        {
+          "timecode": "31:30–31:33",
+          "description": "Місто вмикає оборону."
+        },
+        {
+          "timecode": "31:33–31:37",
+          "description": "Zerg не атакують."
+        },
+        {
+          "timecode": "31:37–31:40",
+          "description": "Король зависає над планетою.\n\nВін спостерігає."
+        }
+      ]
+    },
+    {
+      "episode_number": 188,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "31:40–31:50",
+      "title": "THE DIFFERENCE",
+      "scenes": [
+        {
+          "timecode": "31:40–31:43",
+          "description": "Король бачить мешканців планети."
+        },
+        {
+          "timecode": "31:43–31:47",
+          "description": "Вони нагадують йому древніх Zerg."
+        },
+        {
+          "timecode": "31:47–31:50",
+          "description": "Він зупиняє Рій."
+        }
+      ]
+    },
+    {
+      "episode_number": 189,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "31:50–32:00",
+      "title": "THE FIRST MERCY",
+      "scenes": [
+        {
+          "timecode": "31:50–31:53",
+          "description": "Zerg-армія відступає."
+        },
+        {
+          "timecode": "31:53–31:57",
+          "description": "Мешканці планети не розуміють."
+        },
+        {
+          "timecode": "31:57–32:00",
+          "description": "Король дивиться в космос.\n\nВін навчився не лише виживати."
+        }
+      ]
+    },
+    {
+      "episode_number": 190,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "32:00–32:10",
+      "title": "THE NEW LAW",
+      "scenes": [
+        {
+          "timecode": "32:00–32:03",
+          "description": "Король передає психічний наказ."
+        },
+        {
+          "timecode": "32:03–32:07",
+          "description": "WE DO NOT CONSUME THE INNOCENT."
+        },
+        {
+          "timecode": "32:07–32:10",
+          "description": "Увесь Рій завмирає."
+        }
+      ]
+    },
+    {
+      "episode_number": 191,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "32:10–32:20",
+      "title": "THE PROTOSS RETURN",
+      "scenes": [
+        {
+          "timecode": "32:10–32:13",
+          "description": "У небі відкривається Protoss-портал."
+        },
+        {
+          "timecode": "32:13–32:17",
+          "description": "Кораблі виходять із нього."
+        },
+        {
+          "timecode": "32:17–32:20",
+          "description": "Protoss бачать, що Zerg не атакують."
+        }
+      ]
+    },
+    {
+      "episode_number": 192,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "32:20–32:30",
+      "title": "UNDERSTANDING",
+      "scenes": [
+        {
+          "timecode": "32:20–32:23",
+          "description": "Protoss-командир дивиться на короля."
+        },
+        {
+          "timecode": "32:23–32:27",
+          "description": "Король дивиться на нього."
+        },
+        {
+          "timecode": "32:27–32:30",
+          "description": "Командир вимикає зброю."
+        }
+      ]
+    },
+    {
+      "episode_number": 193,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "32:30–32:40",
+      "title": "AN UNLIKELY PEACE",
+      "scenes": [
+        {
+          "timecode": "32:30–32:33",
+          "description": "Protoss і Zerg зависають над планетою."
+        },
+        {
+          "timecode": "32:33–32:37",
+          "description": "Жоден не атакує."
+        },
+        {
+          "timecode": "32:37–32:40",
+          "description": "Уперше галактика бачить мир між ними."
+        }
+      ]
+    },
+    {
+      "episode_number": 194,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "32:40–32:50",
+      "title": "THE SIGNAL RETURNS",
+      "scenes": [
+        {
+          "timecode": "32:40–32:43",
+          "description": "Раптово всі системи Protoss починають мигати."
+        },
+        {
+          "timecode": "32:43–32:47",
+          "description": "Zerg також відчувають сигнал."
+        },
+        {
+          "timecode": "32:47–32:50",
+          "description": "Король повертається до космосу."
+        }
+      ]
+    },
+    {
+      "episode_number": 195,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "32:50–33:00",
+      "title": "SOMETHING IS COMING",
+      "scenes": [
+        {
+          "timecode": "32:50–32:53",
+          "description": "На горизонті відкривається чорний портал."
+        },
+        {
+          "timecode": "32:53–32:57",
+          "description": "З нього виходить невідома форма."
+        },
+        {
+          "timecode": "32:57–33:00",
+          "description": "Вона більша за планету."
+        }
+      ]
+    },
+    {
+      "episode_number": 196,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "33:00–33:10",
+      "title": "THE LAST MESSAGE",
+      "scenes": [
+        {
+          "timecode": "33:00–33:03",
+          "description": "Усі екрани Protoss одночасно вмикаються."
+        },
+        {
+          "timecode": "33:03–33:07",
+          "description": "З'являється древній символ."
+        },
+        {
+          "timecode": "33:07–33:10",
+          "description": "THEY HAVE FOUND YOU."
+        }
+      ]
+    },
+    {
+      "episode_number": 197,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "33:10–33:20",
+      "title": "THE SKY",
+      "scenes": [
+        {
+          "timecode": "33:10–33:13",
+          "description": "Небо планети темніє."
+        },
+        {
+          "timecode": "33:13–33:17",
+          "description": "Зірки одна за одною гаснуть."
+        },
+        {
+          "timecode": "33:17–33:20",
+          "description": "Король дивиться вгору."
+        }
+      ]
+    },
+    {
+      "episode_number": 198,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "33:20–33:30",
+      "title": "THE OCEAN OF EYES",
+      "scenes": [
+        {
+          "timecode": "33:20–33:23",
+          "description": "У космосі відкриваються очі."
+        },
+        {
+          "timecode": "33:23–33:27",
+          "description": "Їх незліченна кількість."
+        },
+        {
+          "timecode": "33:27–33:30",
+          "description": "Protoss-командир тихо каже:\n\nHow many are there?"
+        }
+      ]
+    },
+    {
+      "episode_number": 199,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "33:30–33:40",
+      "title": "THE ANSWER",
+      "scenes": [
+        {
+          "timecode": "33:30–33:33",
+          "description": "Король дивиться в темряву."
+        },
+        {
+          "timecode": "33:33–33:37",
+          "description": "Його психічний сигнал поширюється крізь Рій."
+        },
+        {
+          "timecode": "33:37–33:40",
+          "description": "ENOUGH TO END EVERYTHING."
+        }
+      ]
+    },
+    {
+      "episode_number": 200,
+      "arc": "АРКА XXXIII — THE END THAT IS NOT THE END",
+      "timecode": "33:40–33:50",
+      "title": "THE SWARM AWAKENS AGAIN",
+      "scenes": [
+        {
+          "timecode": "33:40–33:43",
+          "description": "Усі Zerg-планети одночасно відкривають Hive."
+        },
+        {
+          "timecode": "33:43–33:46",
+          "description": "Protoss-флот активує зброю."
+        },
+        {
+          "timecode": "33:46–33:48",
+          "description": "Навіть частина Hunters повертається."
+        },
+        {
+          "timecode": "33:48–33:50",
+          "description": "Камера відлітає далеко за межі галактики.\n\nПеред нею —\n\nНЕСКІНЧЕННИЙ ЖИВИЙ ОКЕАН.\n\nМільярди очей відкриваються.\n\nЧорний екран.\n\nТиша.\n\nПотім:\n\nTHE SWARM WAS NEVER THE END.\n\nIT WAS THE BEGINNING.\n\nCUT TO BLACK."
+        }
+      ]
+    }
+  ]
+}
